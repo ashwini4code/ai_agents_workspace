@@ -1,0 +1,4 @@
+gradio
+requests
+PyPDF2
+youtube-transcript-api
